@@ -1,0 +1,14 @@
+{
+  "name": "rl-match-tracker",
+  "version": "1.0.0",
+  "description": "Manually track your rocket league matches",
+  "main": "rl-match-tracker.js",
+  "author": "Hugo Lefrancq",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "0.0.2",
+    "cli-color": "^2.0.0",
+    "node-emoji": "^1.10.0",
+    "sqlite3": "^5.0.0"
+  }
+}
