@@ -11,9 +11,11 @@ Created with :heart: by a passionate player
 `npm install`
 4. Add a match (Let's suppose I've won a match **3-2** with my team mate **Sabodji** and it was in a **scrim** with opponents around **1750 MMR**)  
 *Always type your team score first*  
-`node rl-match-tracker.js -s 3,2 -p 'Sabodji' -c 'Scrim 1750 MMR'`
-5. Check every matches you have added so far  
-`node rl-match-tracker.js`
+`node rl-match-tracker.js -s 3,2 -p 'Sabodji' -c 'Scrim 1750 MMR'`  
+![match-added](https://user-images.githubusercontent.com/43551457/91671059-938b8b00-eb23-11ea-8961-a070e44c4400.png)
+5. Repeat the previous step and check every matches you have added so far  
+`node rl-match-tracker.js`  
+![match-listed](https://user-images.githubusercontent.com/43551457/91671126-16ace100-eb24-11ea-96ac-81a4da08795c.png)
 
 ### Author
 Hugo Lefrancq :  
