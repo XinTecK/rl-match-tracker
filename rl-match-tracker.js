@@ -96,7 +96,7 @@ db.run(initSql, err => {
       throw err
     }
     if (rows.length === 0) {
-      console.log('Aucun match ajouté pour le moment...')
+      console.log('No match added yet...')
     }
     rows.forEach(match => {
       if (match.team_score > match.opponent_team_score) {
